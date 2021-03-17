@@ -1,0 +1,1 @@
+# vite-plugin-unset-jsx-inject
