@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-unset",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "With this plugin configuration options can be removed again.",
   "author": "Martin Oppitz <npmjs@martinoppitz.com>",
   "homepage": "https://leanupjs.org",
